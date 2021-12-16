@@ -68,4 +68,4 @@ def create(size, multiplier=None):
 	print('Done!')
 
 if __name__ == '__main__':
-	create(int(input('Size: ')), int(input('Multiplier: ')))
+	create(int(input('Size: ')), int(input('XZ Multiplier: ')))
