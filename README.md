@@ -12,11 +12,11 @@ Generate images of hilbert's curve or make a minecraft datapack out of it
 2. Enter the level of the curve
 3. Enter the scale/multiplier of the "maze" in python
 4. Wait for a .mcfunction file to generate
-5. Create a minecraft datapack and drop the .mcfunction file in
+5. Create a minecraft datapack and drop the .mcfunction file inside the "functions" directory
 
 ### Automatically
 1. Open minecraftDatapackAll.py
-2. Create a minecraft datapack and drop the .mcfunction files in
+2. Create a minecraft datapack and drop the .mcfunction files inside the "functions" directory
 
 ## hilbertsCurve.py as a library
 1. Create a new python file
