@@ -26,5 +26,6 @@ from hilbertsCurve import hilbertsCurve
 ```
 3. Create the curve
 ```python
-curve = hilbertsCurve(size) # Returns an array of coordinates (2d array) of the curve from first point to last
+curve = hilbertsCurve(size)
+# Returns an array of coordinates (2d array) of the curve from first point to last
 ```
