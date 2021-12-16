@@ -18,13 +18,13 @@ Generate images of hilbert's curve or make a minecraft datapack out of it
 1. Open minecraftDatapackAll.py
 2. Create a minecraft datapack and drop the .mcfunction file in
 
-## Use image.py as a library
-1. Make a new python file
-2. import image.py
+## hilbertsCurve.py as a library
+1. Create a new python file
+2. import hilbertsCurve.py
 ```python
-import image
+from hilbertsCurve import hilbertsCurve
 ```
-3. Generate the image
+3. Create the curve
 ```python
-image.generate(level)
+curve = hilbertsCurve(size) # Returns an array of coordinates (2d array) of the curve from first point to last
 ```
