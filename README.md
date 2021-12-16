@@ -16,7 +16,7 @@ Generate images of hilbert's curve or make a minecraft datapack out of it
 
 ### Automatically
 1. Open minecraftDatapackAll.py
-2. Create a minecraft datapack and drop the .mcfunction file in
+2. Create a minecraft datapack and drop the .mcfunction files in
 
 ## hilbertsCurve.py as a library
 1. Create a new python file
